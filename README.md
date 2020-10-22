@@ -1,1 +1,1 @@
-# mnist
+# cifar100
